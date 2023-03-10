@@ -1,0 +1,17 @@
+1:Abdullah Ibn-E Rizwan          (1-A)
+2:Muhammad IBn E Khalid          (1-D)
+3:Wasif Baig                     (1-D)
+4:Fahad Najeeb                   (1-D)
+5:Asim Ali Tahir                 (1-D)
+6:Arsahad Ali                    (1-D)
+7:Rashid Ali                     (1-D)
+8:Awad Usman                     (2-E)
+9:Abdullah Shafique              (2-E)
+10:Muhammad Khan                 (2-E)
+11:Salman Khan                   (2-E)
+12:Abdul Rehman Qazi             (2-E)
+13:Mujtaba Ali                   (2-E)
+
+
+
+
